@@ -6,7 +6,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>Educativa - UFMS</title>
 
-	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+	<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
 	
 	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" />
 	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.fullpage/2.8.9/jquery.fullpage.min.css" />
@@ -69,10 +69,10 @@
 		
 		<!-- Scripts -->
 
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-		<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
 		<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
-		<script src="https://cdn.jsdelivr.net/jquery.fullpage/2.8.9/jquery.fullpage.min.js"></script>
+		<script src="//cdn.jsdelivr.net/jquery.fullpage/2.8.9/jquery.fullpage.min.js"></script>
 		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.nanoscroller/0.8.7/javascripts/jquery.nanoscroller.min.js"></script>
 
 		<script type="text/javascript">
