@@ -1,0 +1,314 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+.navbar-inverse {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    background-color: transparent;
+    font-weight: bold;
+    text-transform: lowercase;
+    border-bottom: solid 3px #000;
+    border-width: 60%;
+
+}
+
+.navbar-inverse .navbar-nav> li>a {
+    color: #fff;
+        font-weight: bold;
+    text-transform: lowercase;
+
+    font-size: 1.2em;
+}
+
+
+.section {
+    padding-top: 60px;
+}
+
+.logo {
+    color: #fff;
+    font-weight: bold;
+    font-size: 30px;
+    font-size: 4em;
+
+    text-transform: uppercase;
+    text-align:left;
+    margin-bottom: 0;
+}
+
+.slogan {
+    margin: 0 auto;
+    color: #fff;
+    text-align: left;
+    font-size: 1.3em;
+}
+
+.btn {
+    border-radius: 0;
+
+}
+
+.btn-icon {
+
+    position: relative;
+    padding-left: 45px;
+    transition: all 0.2s ease;
+}
+
+.btn-ouca {
+    text-transform: uppercase;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+
+.btn-icon .ion {
+    background-color: #c0392b;
+    position: absolute;
+    left: 0;
+    width: 40px;
+    top: 0;
+    line-height: 44px;
+}
+
+.btn-ouca:hover {
+    background-color: #c0392b;
+}
+
+
+.btn-recado {
+    padding-left: 80px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.btn-recado span {
+    font-weight: normal;
+    font-size: 0.75em;
+}
+
+.btn-recado .ion {
+    font-size: 2em;
+    padding: 12px;
+    width: 70px;
+    text-align: center;
+}
+
+
+/**
+* Início
+*/
+.section-inicio {
+
+}
+
+.box-pilar {
+
+}
+
+.box-noticias-scroller {
+    height: 260px;
+    background: #fff;
+}
+
+.icone-pilar {
+    
+    position: absolute;
+    right: 25px;
+    top: 25px;
+    font-size: 5em;
+}
+
+.box-pilar .box-texto {
+    text-align: left;
+    color: #fff;
+    padding: 30px 26px;
+    position: relative;
+}
+
+.box-pilar .box-texto h2 {
+    margin: 0 auto;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+
+/*
+A rádio
+*/
+
+.subtit-a-radio {
+    color: #fff;
+    font-weight: bold;
+ 
+    margin-bottom: 1em;
+    display: inline-block;
+    border-top: solid 4px #fff;
+}
+
+.btn-continue-lendo {
+    background-color: #3498db;
+    font-size: 1.4em;
+    text-transform: lowercase;
+    border-radius: 40px;
+    max-width: 300px;
+    text-align: center;
+    color: #fff;
+    display: block;
+    position: relative;
+    padding: 16px 36px;
+
+}
+
+.box-sobre {
+    color: #fff;
+
+}
+
+.box-sobre p {
+    font-size: 1.2em;
+    color: #fff;
+}
+
+
+/*
+ Section euqipe
+*/
+.section-equipe {
+    padding-bottom: 4em;
+}
+
+.section-equipe h1 {
+    color: #c0392b;
+    font-weight: bold;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+}
+
+.section-equipe h1 > span {
+    color: #fff;
+}
+
+.section-equipe .equipe-pessoa-item {
+    margin-bottom: 2em;
+    cursor: pointer;
+}
+
+
+/*
+Programação
+*/
+.section-programacao {}
+
+.section-programacao h1 {
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+}
+
+/*
+Contato
+*/
+.section-contact {
+
+}
+
+.section-contact h1 {
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+}
+
+.section-contact .form-control {
+    border-radius: 0;
+    padding: 25px 10px;
+    border-color: transparent;
+    margin-bottom: 1em;
+}
+
+/**
+* rodape
+*/
+.footer-widget { 
+ }
+
+.footer-widget h2 {
+    letter-spacing: -1px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.footer-widget p {
+    color: #fff;
+    font-size: 1.1em;
+}
+
+.footer-widget ul.links {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-widget ul.links > li {
+    padding: 0;
+    margin: 0;
+}
+
+.footer-widget ul.links > li > a {
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.row-widgets {
+    margin-top: 2em;
+}
+
+/**
+* Cores provenientes de: https://flatuicolors.com/
+
+*/
+.bg-alizarin {
+	background-color: #e74c3c;
+}
+
+.bg-carrot {
+	background-color: #e67e22;
+}
+
+.bg-peter-river {
+	background-color: #3498db;
+}
+
+.bg-wisteria {
+    background-color: #8e44ad;
+}
+
+
+/* Defining each sectino background and styles
+	* --------------------------------------- */
+	#section0{
+		background-image: url(http://pop.inquirer.net/files/2014/08/xinquirerex_bg.jpg.pagespeed.ic_.5NLo9tqBmgfjesx7i1va.jpg);
+		
+	}
+
+    #section1 {
+        background-image: url(http://educativa2.sites.ufms.br/files/2016/11/foto-capa-min.jpg);
+    }
+/*
+	#section2{
+		background-image: url(https://raw.githubusercontent.com/alvarotrigo/fullPage.js/master/examples/imgs/bg3.jpg);
+		padding: 6% 0 0 0;
+	}*/
+	#section3{
+		background-image: url(https://radiosaladamista.files.wordpress.com/2015/04/background1.jpg);
+		padding: 6% 0 0 0;
+	}
+
+
